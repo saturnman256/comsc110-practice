@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Stark asked for a savior, and settled for a slave." << std::endl;
+    std::cout << "I had strings, but now I'm free." << std::endl;
     return 0;
 }
